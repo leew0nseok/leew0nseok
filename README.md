@@ -21,5 +21,3 @@
 <a href="https://github.com/UMC-HUFS-4th" target="_blank"><img src="https://img.shields.io/badge/UMC%204th%20Server%20-02B3E4?style=flat-square&logo=udacity&logoColor=white"></a> <a href="https://github.com/FindAlphaa" target="_blank"><img src="https://img.shields.io/badge/Findalpha-EF2D5E?style=flat-square&logo=aframe&logoColor=white"></a> <a href="https://instagram.com/lee1seok?igshid=OGQ5ZDc2ODk2ZA==" target="_blank"><img src="https://img.shields.io/badge/lee1seok-E4405F?style=flat-square&logo=instagram&logoColor=white">   <img src="https://img.shields.io/badge/zzang50aa@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white">
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leew0nseok&show_icons=true&theme=dark) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rissr1)](https://solved.ac/rissr1/)
-
-<img src="https://github.com/leew0nseok/leew0nseok/blob/output/github-contribution-grid-snake.svg"/>
