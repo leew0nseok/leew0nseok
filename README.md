@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=leew0nseok&desc=UMC%20Server&animation=twinkling&fontAlign=70&descAlign=77&descAlignY=65)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=leew0nseok&desc=&animation=twinkling&fontAlign=70&descAlign=77&descAlignY=65)
 
 
 # SKILLS  :scroll:  
@@ -22,9 +22,4 @@
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leew0nseok&show_icons=true&theme=dark)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dong99u&theme=dark&layout=donut)](https://github.com/leew0nseok/github-readme-stats)
-
-
-![snake gif](https://github.com/leew0nseok/leew0nseok/blob/output/github-contribution-grid-snake.svg)
-
-
 
